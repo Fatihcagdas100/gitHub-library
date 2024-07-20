@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\bin\Debug\Libb.exe.config
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\bin\Debug\Libb.exe
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\bin\Debug\Libb.pdb
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\obj\Debug\Libb.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\obj\Debug\Libb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\obj\Debug\Libb.exe
+C:\Users\User\Desktop\kutuphanee\Libb\Libb\obj\Debug\Libb.pdb
